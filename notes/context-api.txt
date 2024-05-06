@@ -1,0 +1,9 @@
+context api = commen share storage among all the components;
+1.prop drilling
+2.folder setup : use a store folder
+3.initialization: Use React.creteContext with initial state & EXPORT it 
+4. Provider: Implement with contextName.Provider in component 
+AccessValue : use the useContext Hook 
+5.Dynamic data: Combine Context Value with the state 
+6.Export Function : Context can also export function for action 
+7.Logics Separation : This is helps keep the UI and business logic Separation from the each other 

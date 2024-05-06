@@ -1,0 +1,13 @@
+.container{
+   width: 45%;
+   margin-left: 30%;
+   font-weight: 500;
+   margin-top: 3vh;
+   border: 2.5px solid antiquewhite;
+   border-radius: 15%;
+   min-height: 200px;
+   padding: 5%;
+   
+}
+
+

@@ -1,0 +1,9 @@
+useReducer is a hook in React that offer more control, over state operation compared to useSate ,
+ specially for complex state logic.
+Components : It involve two components
+           1.Reducer : pure function
+           2.Action
+3. initialization : it invoked as 
+ const [state, dispatch] = useReducer(reduce, initialState);
+ 
+If you find yourself keeping track of multiple pieces of state that rely on complex logic, useReducer may be useful.
